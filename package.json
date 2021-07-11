@@ -4,5 +4,9 @@
     "description": "C1200s SDK",
     "main": "index.js",
     "author": "C1200",
-    "license": "ISC"
+    "license": "ISC",
+    "homepage": "https://c1200.js.org",
+    "repository": {
+        "url": "https://github.com/C1200/C1200s-SDK"
+    }
 }

@@ -1,5 +1,11 @@
 # C1200's SDK
 
+Install:
+
+```
+npm install c1200s-sdk
+```
+
 ## EventEmitter
 
 Require:
