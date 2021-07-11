@@ -1,0 +1,8 @@
+{
+    "name": "c1200s-sdk",
+    "version": "1.0.0",
+    "description": "C1200s SDK",
+    "main": "index.js",
+    "author": "C1200",
+    "license": "ISC"
+}
